@@ -85,4 +85,3 @@
 #Web Build
 *.br filter=lfs diff=lfs merge=lfs -text
 *.unityweb filter=lfs diff=lfs merge=lfs -text
-*.data filter=lfs diff=lfs merge=lfs -text
